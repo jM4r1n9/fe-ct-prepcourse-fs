@@ -308,7 +308,7 @@ function continueStatement(num) {
    // [PISTA]: utiliza el statement 'continue'.
    // Tu código:
 
-   var array = [];
+   var arra = [];
 
    for(var i = 0; i < 10; i++){
 
@@ -320,7 +320,7 @@ function continueStatement(num) {
 
        num = num+2;
 
-      array.push(num);}return array;
+      arra.push(num);}return arra;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
